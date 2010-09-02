@@ -1,0 +1,14 @@
+pycrypto: PyCrypto (The Python Cryptography Toolkit)
+pycrypto:
+pycrypto: A collection of cryptographic algorithms and protocols,
+pycrypto: implemented for use from Python. Among the contents of the package:
+pycrypto:   * Hash functions: HMAC, MD2, MD4, MD5, RIPEMD160, SHA, SHA256.
+pycrypto:   * Block encryption algorithms: AES, ARC2, Blowfish, CAST, DES,
+pycrypto:     Triple-DES.
+pycrypto:   * Stream encryption algorithms: ARC4, simple XOR.
+pycrypto:   * Public-key algorithms: RSA, DSA, ElGamal, qNEW.
+pycrypto:   * Protocols: All-or-nothing transforms, chaffing/winnowing.
+pycrypto:   * Miscellaneous: RFC1751 module for converting 128-key keys
+pycrypto:     into a set of English words, primality testing, random number
+pycrypto:     gereration.
+pycrypto: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>
