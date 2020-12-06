@@ -10,5 +10,5 @@ pycrypto:   * Public-key algorithms: RSA, DSA, ElGamal, qNEW.
 pycrypto:   * Protocols: All-or-nothing transforms, chaffing/winnowing.
 pycrypto:   * Miscellaneous: RFC1751 module for converting 128-key keys
 pycrypto:     into a set of English words, primality testing, random number
-pycrypto:     gereration.
-pycrypto: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>
+pycrypto:     generation.
+pycrypto: Packaged by Georgi D. Sotirov <gdsotirov@gmail.com>
